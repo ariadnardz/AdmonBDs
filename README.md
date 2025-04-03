@@ -1,2 +1,2 @@
 # AdmonBDs
-Practi
+Practicas de la materia
